@@ -1,7 +1,7 @@
 # Module_1_challenge
 Case Study: OpenAI
 
-_Overview and Origin_
+**Overview and Origin**
 
 Name of Company: OpenAI
 
@@ -23,7 +23,7 @@ Origins: OpenAI was founded in 2015 by a group of experts in the field of artifi
 
 Funding: OpenAI started with an incredible $1 billion endowment from its founders and other investors, which reflects their commitment to advancing the field of AI and ensuring its safe and ethical use. In February 2018, Elon Musk, one of the initial investors, left the company due to a potential conflict of interest with his work at Tesla, the automotive and clean energy company inspired by Nikola Tesla. He was one of the original founders and supporters of OpenAI yet not listed as much more than an investor as far as I could tell
 
-Business Activities:
+*Business Activities:*
 
 Problem Statement: OpenAI's primary mission is to address the challenges and potential risks associated with the rapid advancement of artificial intelligence. The company is dedicated to developing AI in a manner that is both safe and beneficial to humanity. Their focus extends beyond short-term applications and includes the pursuit of fundamental advances in AI capabilities.
 
@@ -33,7 +33,7 @@ Intended Customer: OpenAI's target audience is diverse, including researchers, d
 
 Technologies: OpenAI utilizes a wide range of cutting-edge AI technologies, including deep learning, natural language processing, and reinforcement learning. They actively contribute to the development of AI frameworks and tools and share their research findings with the global AI community.
 
-Landscape:
+*Landscape:*
 
 Field: OpenAI operates in the field of artificial intelligence, which has experienced significant growth and innovation in recent years. Their most popular product currently is ChatGPT which is a Large Language Model capable of nearly human-like text from prompts.
 
@@ -41,7 +41,7 @@ Trends and Innovations: Over the last 5-10 years, the field of AI has seen many 
 
 Major Companies in the Field: OpenAI competes with other prominent companies in the AI space, such as Google's DeepMind, Microsoft Research, Facebook AI Research (FAIR), and various similar companies but these were some of the biggest.
 
-Results:
+*Results:*
 
 Business Impact: OpenAI's impact on the field of AI has been substantial. They have contributed to key advancements in AI research, particularly in natural language processing and reinforcement learning. Their work has influenced the development of AI applications across various industries.
 
@@ -49,9 +49,12 @@ Core Metrics for Success: Success in the AI field is often measured by research 
 
 Performance Relative to Competitors: OpenAI is recognized as a leading authority in AI ethics and safety. They have set standards for responsible AI development, gaining a competitive edge through their commitment to these principles.
 
-Recommendations:
+*Recommendations:*
 
-Product/Service Suggestions: OpenAI might consider expanding its offerings to include AI safety and ethics consulting services. This would involve providing guidance and support to other organizations and researchers to ensure they adhere to responsible AI practices. Something similar to the laws of robotics by Isaac Asimov. The laws are as follows: “(1) a robot may not injure a human being or, through inaction, allow a human being to come to harm; (2) a robot must obey the orders given it by human beings except where such orders would conflict with the First Law; (3) a robot must protect its own existence as long as such protection does not conflict with the First or Second Law.” Of course, this list could be weird to try to incorporate into something like an ethics consulting service but something along a similar line would likely assist in making something that adheres to a similar line of logic. 
+Product/Service Suggestions: OpenAI might consider expanding its offerings to include AI safety and ethics consulting services. This would involve providing guidance and support to other organizations and researchers to ensure they adhere to responsible AI practices. Something similar to the laws of robotics by Isaac Asimov. The laws are as follows: 
+>-“(1) a robot may not injure a human being or, through inaction, allow a human being to come to harm; (2) a robot must obey the orders given it by human beings except where such orders would conflict with the First Law; (3) a robot must protect its own existence as long as such protection does not conflict with the First or Second Law.”
+>Isaac Asimov
+Of course, this list could be weird to try to incorporate into something like an ethics consulting service but something along a similar line would likely assist in making something that adheres to a similar line of logic. 
 
 Benefits of Expansion: Offering AI safety and ethics consulting services could further reinforce OpenAI's mission of promoting ethical AI development. It would also create an additional revenue stream and establish the company as a trusted authority in responsible AI. They already seem to lead the pack if for no other reason than they were one of the first to release such a powerful and accessible Large Language Model.  
 
@@ -63,7 +66,7 @@ Appropriateness of Technologies: These technologies are appropriate for OpenAI's
 
 
 Sources:
-About, 2015, openai.com/about. 
+About, 2015, openai.com/about. https://openai.com/about
  "Sam Altman on His Plan to Keep A.I. Out of the Hands of the "Bad Guys"". Vanity Fair. 2015. Archived from the original on February 3, 2023. Retrieved October 30, 2023.
   "Introducing OpenAI". OpenAI. December 12, 2015. Archived from the original on August 8, 2017. Retrieved October 27, 2023.
  "OpenAI, the company behind ChatGPT: What all it does, how it started and more". The Times of India. January 25, 2023. Archived from the original on February 3, 2023. Retrieved October 28, 2023.
