@@ -21,7 +21,7 @@ Founders:
 
 Origins: OpenAI was founded in 2015 by a group of experts in the field of artificial intelligence. The idea for the company emerged from the founders' concerns about the potentially catastrophic consequences of misuse of general-purpose AI. They recognized the need for a responsible and long-term approach to AI research and development. 
 
-Funding: OpenAI started with a remarkable $1 billion endowment from its founders and other investors, reflecting their commitment to advancing the field of AI and ensuring its safe and ethical use. In February 2018, Elon Musk, one of the initial investors, left the company due to a potential conflict of interest with his work at Tesla, the automotive and clean energy company inspired by Nikola Tesla.
+Funding: OpenAI started with an incredible $1 billion endowment from its founders and other investors, which reflects their commitment to advancing the field of AI and ensuring its safe and ethical use. In February 2018, Elon Musk, one of the initial investors, left the company due to a potential conflict of interest with his work at Tesla, the automotive and clean energy company inspired by Nikola Tesla. He was one of the original founders and supporters of OpenAI yet not listed as much more than an investor as far as I could tell
 
 Business Activities:
 
@@ -35,11 +35,11 @@ Technologies: OpenAI utilizes a wide range of cutting-edge AI technologies, incl
 
 Landscape:
 
-Field: OpenAI operates in the field of artificial intelligence, which has experienced significant growth and innovation in recent years.
+Field: OpenAI operates in the field of artificial intelligence, which has experienced significant growth and innovation in recent years. Their most popular product currently is ChatGPT which is a Large Language Model capable of nearly human-like text from prompts.
 
-Trends and Innovations: Over the last 5-10 years, the field of AI has seen remarkable advancements, including breakthroughs in natural language understanding, computer vision, and autonomous systems. Innovations such as deep learning and neural networks have transformed the AI landscape.
+Trends and Innovations: Over the last 5-10 years, the field of AI has seen many advancements, including breakthroughs in natural language understanding, computer vision, and autonomous systems. Innovations such as deep learning and neural networks have transformed the AI landscape.
 
-Major Companies in the Field: OpenAI competes with other prominent companies in the AI space, such as Google's DeepMind, Microsoft Research, Facebook AI Research (FAIR), and various academic institutions.
+Major Companies in the Field: OpenAI competes with other prominent companies in the AI space, such as Google's DeepMind, Microsoft Research, Facebook AI Research (FAIR), and various similar companies but these were some of the biggest.
 
 Results:
 
@@ -51,7 +51,7 @@ Performance Relative to Competitors: OpenAI is recognized as a leading authority
 
 Recommendations:
 
-Product/Service Suggestions: OpenAI might consider expanding its offerings to include AI safety and ethics consulting services. This would involve providing guidance and support to other organizations and researchers to ensure they adhere to responsible AI practices. Something similar to the laws of robotics by Isaac Asimov. The laws are as follows: “(1) a robot may not injure a human being or, through inaction, allow a human being to come to harm; (2) a robot must obey the orders given it by human beings except where such orders would conflict with the First Law; (3) a robot must protect its own existence as long as such protection does not conflict with the First or Second Law.” 
+Product/Service Suggestions: OpenAI might consider expanding its offerings to include AI safety and ethics consulting services. This would involve providing guidance and support to other organizations and researchers to ensure they adhere to responsible AI practices. Something similar to the laws of robotics by Isaac Asimov. The laws are as follows: “(1) a robot may not injure a human being or, through inaction, allow a human being to come to harm; (2) a robot must obey the orders given it by human beings except where such orders would conflict with the First Law; (3) a robot must protect its own existence as long as such protection does not conflict with the First or Second Law.” Of course, this list could be weird to try to incorporate into something like an ethics consulting service but something along a similar line would likely assist in making something that adheres to a similar line of logic. 
 
 Benefits of Expansion: Offering AI safety and ethics consulting services could further reinforce OpenAI's mission of promoting ethical AI development. It would also create an additional revenue stream and establish the company as a trusted authority in responsible AI. They already seem to lead the pack if for no other reason than they were one of the first to release such a powerful and accessible Large Language Model.  
 
@@ -63,3 +63,10 @@ Appropriateness of Technologies: These technologies are appropriate for OpenAI's
 
 
 Sources:
+About, 2015, openai.com/about. 
+ "Sam Altman on His Plan to Keep A.I. Out of the Hands of the "Bad Guys"". Vanity Fair. 2015. Archived from the original on February 3, 2023. Retrieved October 30, 2023.
+  "Introducing OpenAI". OpenAI. December 12, 2015. Archived from the original on August 8, 2017. Retrieved October 27, 2023.
+ "OpenAI, the company behind ChatGPT: What all it does, how it started and more". The Times of India. January 25, 2023. Archived from the original on February 3, 2023. Retrieved October 28, 2023.
+ “Introducing Openai.” Introducing OpenAI, 2015, openai.com/blog/introducing-openai. 
+ Hashemi-Pour, Cameron. “What Is Openai? Definition and History from TechTarget.” Enterprise AI, TechTarget, 5 Oct. 2023, www.techtarget.com/searchenterpriseai/definition/OpenAI#:~:text=The%20company%20was%20founded%20by,misuse%20of%20general%2Dpurpose%20AI. 
+ “Three Laws of Robotics.” Encyclopædia Britannica, Encyclopædia Britannica, inc., 20 Oct. 2023, www.britannica.com/topic/Three-Laws-of-Robotics. 
